@@ -17,7 +17,7 @@ My delivery background shapes the problems I care about: who can authorize an ac
 Evidence-linked Agent Skills for RAID changes and status reports, backed by a typed Python validation engine. Makes status contradictions visible and produces reviewable change previews with preserved record history.
 
 - **Implemented:** two skills, Pydantic contracts, deterministic reports and OpenTelemetry traces.
-- **Verified:** 53 regression tests, 16 rule-evaluation cases, and GitHub Actions checks for Python 3.11/3.12 and Docker.
+- **Verified:** 75 regression tests, 16 rule-evaluation cases, and GitHub Actions checks for Python 3.11/3.12 and Docker.
 - **Scope:** initial offline release with synthetic examples. Model extraction accuracy, latency and cost are not yet benchmarked.
 
 [Example report](https://github.com/faisal50ai/pmo-skills/blob/main/examples/status-report.md) · [Evaluation results](https://github.com/faisal50ai/pmo-skills/blob/main/evals/results.json) · [Execution trace](https://github.com/faisal50ai/pmo-skills/blob/main/examples/trace.jsonl)
